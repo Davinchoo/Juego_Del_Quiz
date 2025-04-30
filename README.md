@@ -44,13 +44,3 @@ Algoritmo Quiz
         Escribir "Incorrecto. La respuesta correcta es París."
     FinSi
 FinAlgoritmo
-## Tecnologías Utilizadas
-PSeInt: Herramienta para la creación de algoritmos en pseudocódigo.
-
-Algoritmo en pseudocódigo: Simulación de un juego de preguntas y respuestas.
-
-## Contribuciones
-Si tienes alguna sugerencia o mejora para este proyecto, no dudes en abrir un "issue" o enviar un "pull request". Todas las contribuciones son bienvenidas.
-
-Licencia
-Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo LICENSE para más detalles.
