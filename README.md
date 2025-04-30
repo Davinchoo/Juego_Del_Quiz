@@ -1,4 +1,4 @@
-# Juego_Del_Quiz
+
 # Juego de Quiz en PSeInt
 
 Este es un programa sencillo de **quiz** o juego de preguntas y respuestas implementado en **PSeInt**. El objetivo del juego es hacerle al jugador una serie de preguntas y evaluar sus respuestas. Al final, se muestra la cantidad de respuestas correctas obtenidas.
